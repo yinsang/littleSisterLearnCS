@@ -5,3 +5,4 @@
 - [学习git操作](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [markdown语法](https://www.jianshu.com/p/191d1e21f7ed)
 - [问答网站 stackoverflow](https://stackoverflow.com/)
+- [C语言菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
